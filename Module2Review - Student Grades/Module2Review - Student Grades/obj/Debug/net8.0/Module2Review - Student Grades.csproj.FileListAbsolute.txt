@@ -1,0 +1,14 @@
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\Module2Review - Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\Module2Review - Student Grades.AssemblyInfoInputs.cache
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\Module2Review - Student Grades.AssemblyInfo.cs
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\Module2Review - Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\bin\Debug\net8.0\Module2Review - Student Grades.exe
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\bin\Debug\net8.0\Module2Review - Student Grades.deps.json
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\bin\Debug\net8.0\Module2Review - Student Grades.runtimeconfig.json
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\bin\Debug\net8.0\Module2Review - Student Grades.dll
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\bin\Debug\net8.0\Module2Review - Student Grades.pdb
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\Module2Review - Student Grades.dll
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\refint\Module2Review - Student Grades.dll
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\Module2Review - Student Grades.pdb
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\Module2Review - Student Grades.genruntimeconfig.cache
+C:\Users\compm\repos\Module2Review - Student Grades\Module2Review - Student Grades\obj\Debug\net8.0\ref\Module2Review - Student Grades.dll
